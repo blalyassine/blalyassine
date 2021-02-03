@@ -38,12 +38,9 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 
 [<img align="left" alt="blalyassine | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="blalyassine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="blalyassine | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="blalyassine | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 
-[twitter]: https://twitter.com/BendaiaS
-[instagram]: https://www.instagram.com/sihambendaia/
-[linkedin]: https://www.linkedin.com/in/siham-ben-daia-791820165/
-[codepen]: https://codepen.io/SihamBenDaia
-
+[twitter]: https://twitter.com/blalyassin
+[linkedin]: https://www.linkedin.com/in/blalyassine/
+[codepen]: https://codepen.io/blalyassine
