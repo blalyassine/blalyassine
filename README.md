@@ -11,24 +11,20 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 - 🌱 I’m currently learning laravel,react; 
 ### 📕 Projects
 
-#2021-Today
+#2015-Today
 - Application de gestion de location de voitures (laravel) (In progress) 
 - Application de gestion de produit cooperative  (laravel) (In progress) 
-#2016-2020
-- Association website (<a href="fccd.org">fccd.org</a>) (wordpress)
-- Hotel website (<a href="jnanedardiafa.com">jnanedardiafa</a>) (wordpress)
-- Agency website (<a href="thnbaali.com">thnbaali</a>) (wordpress)
-- Newspaper website (<a href="bouhmide.com">bouhmide</a>) (wordpress)
+- Association website <a href="fccd.org">fccd.org</a> (wordpress)
+- Hotel website <a href="jnanedardiafa.com">jnanedardiafa</a> (wordpress)
+- Agency website <a href="thnbaali.com">thnbaali</a> (wordpress)
+- Newspaper website <a href="bouhmide.com">bouhmide</a> (wordpress)
 - E-commerce website (woocommerce)
-#2016
 - E-commerce website (PHP & mysql)
 - Application de gestion rendez-vous (PHP & mysql)
 - Application de gestion de avocat (PHP & mysql)
 - Application de gestion de salle sport (java & mysql)
-#2015
 - Application de gestion de pharmacie (C# & mysql)
 
-<!-- PROJECTS-LIST:START -->
 
 **Languages and Tools:**  
 
