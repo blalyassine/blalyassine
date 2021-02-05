@@ -10,10 +10,13 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 - 👨🏽‍💻 I’m currently Freelance developer.
 - 🌱 I’m currently learning laravel,react; 
 ### 📕 Projects
-- Application Gestion Location (laravel)
-- site web assocaition (<a href="fccd.org">fccd.org</a>)
-- site web hotel (<a href="jnanedardiafa.com">jnanedardiafa</a>)
-- site web jornal (<a href="bouhmide.com">bouhmide</a>)
+
+- Application de gestion de location de voitures (laravel) (In progress) 
+- Application de gestion de produit collaborative  (laravel) (In progress) 
+- Association website (<a href="fccd.org">fccd.org</a>)
+- Hotel website  (<a href="jnanedardiafa.com">jnanedardiafa</a>)
+- Newspaper website  website (<a href="bouhmide.com">bouhmide</a>)
+- Agency website  (<a href="thnbaali.com">thnbaali</a>)
 
 <!-- PROJECTS-LIST:START -->
 
