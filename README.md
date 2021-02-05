@@ -12,7 +12,7 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 ### 📕 Projects
 
 - Application de gestion de location de voitures (laravel) (In progress) 
-- Application de gestion de produit collaborative  (laravel) (In progress) 
+- Application de gestion de produit cooperative  (laravel) (In progress) 
 - Association website (<a href="fccd.org">fccd.org</a>)
 - Hotel website  (<a href="jnanedardiafa.com">jnanedardiafa</a>)
 - Newspaper website  website (<a href="bouhmide.com">bouhmide</a>)
