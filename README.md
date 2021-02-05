@@ -9,9 +9,9 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 
 - 👨🏽‍💻 I’m currently Freelance developer.
 - 🌱 I’m currently learning laravel,react; 
-### 📕 Projects
+## 📕 Projects
 
-# 2015-Today
+### 2015-Today
 #### laravel
 - Application de gestion de location de voitures (laravel) (In progress) 
 - Application de gestion de produit cooperative  (laravel) (In progress) 
@@ -37,7 +37,7 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 - Application de gestion de pharmacie (C# & mysql)
 
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -54,7 +54,7 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 <br />
 
 ---
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="blalyassine | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="blalyassine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
