@@ -12,13 +12,13 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 ### 📕 Projects
 
 #2015-Today
-=>laravel
+####=>laravel
 - Application de gestion de location de voitures (laravel) (In progress) 
 - Application de gestion de produit cooperative  (laravel) (In progress) 
 - portfolo website (laravel)
-=>Prestashop
+####=>Prestashop
 - E-commerce website (prestashop)
-=>wordpress
+####=>wordpress
 - Association website <a href="fccd.org">fccd.org</a> (wordpress)
 - Hotel website <a href="jnanedardiafa.com">jnanedardiafa</a> (wordpress)
 - Agency website <a href="thnbaali.com">thnbaali</a> (wordpress)
@@ -26,11 +26,11 @@ Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Ma
 - portfolo website (HTML TO wordpress)
 - agency website (HTML TO wordpress)
 - E-commerce website (woocommerce)
-=>wordpress
+####=>front(html & css & js &jquery)
 - portfolo website (html & css & js )
 - agency website (PSD TO HTML)
 - E-commerce website (PHP & mysql)
-=>PHP (CURD)
+####=>PHP (CURD)
 - Application de gestion rendez-vous (PHP & mysql)
 - Application de gestion de avocat (PHP & mysql)
 - Application de gestion de salle sport (java & mysql)
