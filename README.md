@@ -1,7 +1,7 @@
 
 # YASSINE BLAL &nbsp;
 
-Hi, I'm [Yasine Blal](https://blaldev.com/), a Full Stack Developer 🚀 from Maroc, currently, Beside's programming, I enjoy reading and traveling.
+Hi, I'm [Yasine Blal], a Full Stack Developer 🚀 from Maroc, currently, Beside's programming, I enjoy reading and traveling.
   
 #### 🔭 I’m currently looking for new opportunities .
 
