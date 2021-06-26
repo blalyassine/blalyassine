@@ -14,7 +14,7 @@ Hi, I'm Yasine Blal, a Full Stack Developer 🚀 from Maroc, currently, Beside's
 
 {
    "languages" : ["C", "Java", "PHP", "JavaScript", "Python"],
-   "web_backend" : ["Laravel", "Express.js"],
+   "web_backend" : ["Laravel", "Express.js","Node.js"],
    "web_frontend" : ["Vue.js", "React.js"],
    "CMS" : ["wordpress", "prestashop", "Joomla!"],
 }
